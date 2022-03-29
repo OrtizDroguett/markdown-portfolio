@@ -1,0 +1,4 @@
+- Chocolate
+- Computador
+- Café
+- Bebida
