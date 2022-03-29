@@ -1,1 +1,1 @@
-_Responsable, **autodidacta**, c#, php, .net_
+_Responsable, autodidacta, c#, php, .net_
